@@ -18,7 +18,7 @@
 
 推荐一个梯子：
 
-注册连接：https://v3.sixu.space/#/register?code=SZSbfy5W
+注册连接：https://yqmm.ml/#/register?code=SZSbfy5W
 
 进去之后可以根据自己需求购买：
 
