@@ -18,7 +18,7 @@
 
 推荐一个梯子：
 
-注册连接：https://v3.yqmm.xyz:11576/#/register?code=SZSbfy5W
+注册连接:  https://yqmm.xyz:11578/#/register?code=SZSbfy5W
 
 进去之后可以根据自己需求购买：
 
